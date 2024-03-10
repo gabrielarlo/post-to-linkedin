@@ -78,5 +78,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-- Your Name - your@email.com
+- Your Name - gabrielarlo11@gmail.com
 - Project Link: [https://github.com/gabrielarlo/post-to-linkedin.git](https://github.com/gabrielarlo/post-to-linkedin.git)
