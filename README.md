@@ -25,7 +25,7 @@ This project automates the process of posting content to a LinkedIn company page
 2. Install dependencies using Poetry:
 
    ```bash
-   poetry install
+   poetry install --no-root
    ```
 
 3. Copy the `.env.example` file to `.env` and fill in your LinkedIn credentials, OpenAI API key, and other environment variables as needed.
