@@ -43,7 +43,7 @@ def generate_linkedin_content(company_name):
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": f"You are a helpful assistant to post on LinkedIn for {company_name} company."},
-            {"role": "user", "content": "Generate a professional LinkedIn post for a tech company focusing on innovation and community engagement."},
+            {"role": "user", "content": "Generate a professional LinkedIn post for a tech company and make it engaging and show the importance. Also create a unique and catchy headline."},
         ]
     )
     
